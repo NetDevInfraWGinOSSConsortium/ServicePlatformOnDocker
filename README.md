@@ -1,2 +1,2 @@
 # ServicePlatformOnDocker
-KeycloakとかKongとか、チョロっと評価するIaC置き場。
+KeycloakとかKongとか、チョロっと評価するIaC (Docker)置き場。
