@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  keycloak:
+    image: jboss/keycloak:latest
+    restart: always
+    ports:
+      - "8888:8080"
+    environment:
+      KEYCLOAK_USER: seigi
+      KEYCLOAK_PASSWORD: seigi@123
