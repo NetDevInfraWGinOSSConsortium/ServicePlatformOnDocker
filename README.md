@@ -1,0 +1,2 @@
+# ServicePlatformOnDocker
+KeycloakとかKongとか、チョロっと評価するIaC置き場。
